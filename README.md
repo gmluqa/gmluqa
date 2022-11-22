@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there... 🙂
 
 - 🌱 I’m currently learning how to build great web-apps.
 - 😄 Pronouns: He/Him.
