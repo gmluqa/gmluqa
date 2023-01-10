@@ -1,6 +1,6 @@
 ### Hello there... 🙂
 
-![image](https://github-readme-stats.vercel.app/api?username=gmluqa)
+[![gmluqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmluqa)](https://github.com/gmluqa/github-readme-stats)
 
 Currently learning: ![image](https://tinyurl.com/yjs68jbs) ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![image](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) ![image](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
